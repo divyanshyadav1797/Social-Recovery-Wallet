@@ -194,6 +194,4 @@ social-recovery-wallet/
 
 ---
 
-## 📄 License
-
-MIT © 2024 — free to use, modify, and distribute.
+wallet adress : GCFEM6L25GNXKRIWOPXWRECFXN34OWXVT6VVU5CVVVXUOW3W44DDFFSJ
